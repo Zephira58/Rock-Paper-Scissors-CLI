@@ -6,3 +6,4 @@ You can install the standalone application by typing
 ```
 Winget install Xanthus58.RockPaperScissorsCLI
 ```
+In your command terminal
